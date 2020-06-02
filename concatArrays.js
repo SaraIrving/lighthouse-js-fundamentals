@@ -1,5 +1,5 @@
 function concat (array1, array2) {
-  mergedArray = array1.concat(array2);
+  let mergedArray = array1.concat(array2);
   return mergedArray;
 }
 
