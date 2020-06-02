@@ -8,5 +8,5 @@ function smartGarbage (trash, bins) {
   }
   return bins;
 }
-
+//test 
 console.log(smartGarbage('recycling', { waste: 4, recycling: 2, compost: 5 }));
